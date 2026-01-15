@@ -1,2 +1,9 @@
+<<<<<<< Updated upstream
 home goodgit 
 asgdhbhshfjahfka
+=======
+home goodgit 
+>>>>>>> Stashed changes
+
+
+I need to devops master
